@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    background: url(../imagenes/south-park-bus-stop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Fondo{
+    background-color: rgb(238, 255, 0);
+}
+
+#Intro{
+    opacity: 90%;
+}
+
+#ec{
+    background-color: rgb(238, 255, 0);
+}
